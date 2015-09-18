@@ -1,0 +1,1914 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"structures"
+			],
+			[
+				"value",
+				"value	Random.*"
+			],
+			[
+				"HideFlas",
+				"HideFlags	[class]"
+			],
+			[
+				"Structure",
+				"StructureOn"
+			],
+			[
+				"CreatePrimit",
+				"CreatePrimitive	GameObject.*(type)"
+			],
+			[
+				"SetColo",
+				"SetColor	Material.*(nameID, color)"
+			],
+			[
+				"GetMouseButton",
+				"GetMouseButtonDown	Input.*(button)"
+			],
+			[
+				"velo",
+				"velocity	Rigidbody.*"
+			],
+			[
+				"r",
+				"r	Color.*"
+			],
+			[
+				"clear",
+				"clear	ArrayUtility.*(array)"
+			],
+			[
+				"RayCas",
+				"RaycastHit	[class]"
+			],
+			[
+				"parti",
+				"particleSystem	[class]"
+			],
+			[
+				"startP",
+				"startPixel"
+			],
+			[
+				"selectedPo",
+				"selectedPotion"
+			],
+			[
+				"selecte",
+				"selectedPotion"
+			],
+			[
+				"throwS",
+				"throwSpeedBase"
+			],
+			[
+				"Log",
+				"Log	Debug.*(message)"
+			],
+			[
+				"GetButton",
+				"GetButtonDown	Input.*(buttonName)"
+			],
+			[
+				"up",
+				"up	Transform.*"
+			],
+			[
+				"colo",
+				"color	Gizmos.*"
+			],
+			[
+				"InverseTransf",
+				"InverseTransformDirection	Transform.*(direction)"
+			],
+			[
+				"DrawL",
+				"DrawLine	Gizmos.*(from, to)"
+			],
+			[
+				"trans",
+				"transform	[class]"
+			],
+			[
+				"look",
+				"lookRotation	Quaternion.*(forward, upwards)"
+			],
+			[
+				"spell",
+				"spellecule"
+			],
+			[
+				"Invoke",
+				"Invoke	MonoBehaviour.*(methodName, time)"
+			],
+			[
+				"initia",
+				"initiate"
+			],
+			[
+				"spelle",
+				"spellecules"
+			],
+			[
+				"Lo",
+				"Log	LogType.*"
+			],
+			[
+				"parent",
+				"parentSpell"
+			],
+			[
+				"fe",
+				"fePiercing"
+			],
+			[
+				"gameO",
+				"gameObject	*()"
+			],
+			[
+				"rem",
+				"remove	CrashReport.*()"
+			],
+			[
+				"inde",
+				"indexOf	ArrayUtility.*(array, value)"
+			],
+			[
+				"sc",
+				"sCEBuildSubtarget.PCHosted	[property]"
+			],
+			[
+				"font",
+				"font_id"
+			],
+			[
+				"getWino",
+				"getWindowHeight"
+			],
+			[
+				"avg",
+				"avgB"
+			],
+			[
+				"Sprite",
+				"SpriteComponent	ly.entity.component"
+			],
+			[
+				"Bitma",
+				"Bitmap	openfl.display"
+			],
+			[
+				"Bitmap",
+				"BitmapData	openfl.display"
+			],
+			[
+				"Motion",
+				"MotionBlurFilter3D	away3d.filters"
+			],
+			[
+				"Mouse",
+				"Mouse	openfl.ui"
+			],
+			[
+				"Mou",
+				"Mouse	openfl.ui"
+			],
+			[
+				"Key",
+				"Keyboard	openfl.ui"
+			],
+			[
+				"Direct",
+				"DirectionalLight	away3d.lights"
+			],
+			[
+				"Scene",
+				"Scene3D	away3d.containers"
+			],
+			[
+				"View",
+				"View3D	away3d.containers"
+			],
+			[
+				"Camera",
+				"Camera3D	away3d.cameras"
+			],
+			[
+				"Li",
+				"Lib	openfl"
+			],
+			[
+				"TextureMi",
+				"TextureMultiPassMaterial	away3d.materials"
+			],
+			[
+				"StageAl",
+				"StageAlign	openfl.display"
+			],
+			[
+				"StageScaleMode",
+				"StageScaleMode	openfl.display"
+			],
+			[
+				"Glow",
+				"GlowFilter	openfl.filters"
+			],
+			[
+				"BitmapFiler",
+				"BitmapFilterQuality	flash.filters"
+			],
+			[
+				"Blu",
+				"BlurFilter	openfl.filters"
+			],
+			[
+				"Socke",
+				"Socket	openfl.net"
+			],
+			[
+				"Hos",
+				"Host	sys.net"
+			],
+			[
+				"So",
+				"Socket	openfl.net"
+			],
+			[
+				"Keyboard",
+				"Keyboard	openfl.ui"
+			],
+			[
+				"Keyboar",
+				"KeyboardEvent	flash.events"
+			],
+			[
+				"velocity",
+				"velocityY	var"
+			],
+			[
+				"Velocity",
+				"velocityX	var"
+			],
+			[
+				"point",
+				"Point	openfl.geom"
+			],
+			[
+				"matr",
+				"Matrix	openfl.geom"
+			],
+			[
+				"veloci",
+				"velocityY	var"
+			],
+			[
+				"Bitm",
+				"Bitmap	openfl.display"
+			],
+			[
+				"module",
+				"moduleGrid	var"
+			],
+			[
+				"Rect",
+				"Rectangle	openfl.geom"
+			],
+			[
+				"grid",
+				"gridC2	var"
+			],
+			[
+				"mo",
+				"move"
+			],
+			[
+				"Class",
+				"Class<T>	class"
+			],
+			[
+				"KeyE",
+				"KeyboardEvent	openfl.events"
+			],
+			[
+				"Com",
+				"Component	ly.entity.component"
+			],
+			[
+				"u",
+				"utils	package"
+			],
+			[
+				"Event",
+				"Event	openfl.events"
+			],
+			[
+				"O",
+				"Object	openfl.utils"
+			],
+			[
+				"openfl",
+				"openfl	package"
+			],
+			[
+				"pro",
+				"processors	var"
+			],
+			[
+				"Te",
+				"TextFormat	class"
+			],
+			[
+				"test",
+				"testField	var"
+			],
+			[
+				"Text",
+				"TextField	flash.text"
+			],
+			[
+				"Pro",
+				"Processor	modules.processors"
+			],
+			[
+				"openf",
+				"openfl	package"
+			],
+			[
+				"Array",
+				"Array<T>	class"
+			],
+			[
+				"FlxB",
+				"FlxButton	class"
+			],
+			[
+				"ma",
+				"maxLength	Int"
+			],
+			[
+				"floa",
+				"floatRanged(...)	Float"
+			],
+			[
+				"flo",
+				"floatRanged(...)	Float"
+			],
+			[
+				"fl",
+				"parseFloat( x : String )	Float"
+			],
+			[
+				"FlxS",
+				"FlxState	class"
+			],
+			[
+				"score",
+				"scoreText	var"
+			],
+			[
+				"pla",
+				"play(...)	flixel.system.FlxSound"
+			],
+			[
+				"shi",
+				"ship_bg	var"
+			],
+			[
+				"S",
+				"SId"
+			],
+			[
+				"Object",
+				"Object	sys.db"
+			],
+			[
+				"Mys",
+				"Mysql	sys.db"
+			],
+			[
+				"MY",
+				"MySQLConnection	class"
+			],
+			[
+				"My",
+				"MySQLConnection	MySQLCOnnection"
+			],
+			[
+				"Float",
+				"Float32Array	openfl.utils"
+			],
+			[
+				"a",
+				"alignment	String"
+			],
+			[
+				"fore",
+				"forEach(...)	Unknown<0>"
+			],
+			[
+				"forEa",
+				"forEachAlive(...)	Unknown<1>"
+			],
+			[
+				"bullet",
+				"bulletCooldown	var"
+			],
+			[
+				"Fl",
+				"FlxSprite	class"
+			],
+			[
+				"for",
+				"forEachDead(...)	Unknown<2>"
+			],
+			[
+				"FLxTy",
+				"FlxTypedGroup	flixel.group"
+			],
+			[
+				"FlxTyp",
+				"FlxTypedGroup	flixel.group"
+			],
+			[
+				"inta",
+				"intRanged(...)	Int"
+			],
+			[
+				"FL",
+				"FlxSprite	class"
+			],
+			[
+				"ball",
+				"ballRight	var"
+			],
+			[
+				"set",
+				"setScore( score : Int )	Unknown<0>"
+			],
+			[
+				"frame",
+				"frameIndex	Int"
+			],
+			[
+				"FlxE",
+				"FlxEase	flixel.tweens"
+			],
+			[
+				"FlxTilemap",
+				"FlxTilemapExt	flixel.addons.tile"
+			],
+			[
+				"y",
+				"yVelocity"
+			],
+			[
+				"FlxTil",
+				"FlxTilemap	flixel.tile"
+			],
+			[
+				"int",
+				"intRanged(...)	Int"
+			],
+			[
+				"FLx",
+				"FlxG	class"
+			],
+			[
+				"al",
+				"alpha	Float"
+			],
+			[
+				"Eve",
+				"Event"
+			],
+			[
+				"E",
+				"EventID	class"
+			],
+			[
+				"IDis",
+				"IDisplayObject	class"
+			],
+			[
+				"color",
+				"colorMenu	var"
+			],
+			[
+				"highScore",
+				"highScore	var"
+			],
+			[
+				"highS",
+				"highScore	var"
+			],
+			[
+				"high",
+				"highScoreDisplay	var"
+			],
+			[
+				"bg",
+				"bgImage2	var"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 304.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"forma",
+				"CoolFormat: Selected Format"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"runes",
+				"OmniSharpSublime: Run All Tests"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"drop",
+				"Snippet: DropConnectionRequest.*()"
+			],
+			[
+				"scroll",
+				"Snippet: Scrollbar.*()"
+			],
+			[
+				"magic",
+				"Snippet: NavMeshAgent.*(areaIndex, areaCost)"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"ba",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"use",
+				"Preferences: Settings - User"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"destr",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"ori right",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package ",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"backup",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"back",
+				"AutoBackups: Open file backup"
+			],
+			[
+				"syn",
+				"SyntaxHighlightTools: New tmLang File…"
+			],
+			[
+				"new syn",
+				"z:AAAPackageDev: New JSON Syntax Definition"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"unity",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"set stod",
+				"Set Syntax: Todo.txt"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"thems",
+				"Themr: List themes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"Themr: Random theme"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View: Toggle Minimap"
+			],
+			[
+				"snipp",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"crea",
+				"Javatar: Create new..."
+			],
+			[
+				"cre",
+				"Package Control: Remove Channel"
+			],
+			[
+				"java",
+				"Javatar: Builds..."
+			],
+			[
+				"keymap",
+				"Keymap Redefiner: Update Keymaps"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"keyma",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"haxe",
+				"Haxe: Restart Server"
+			],
+			[
+				"thmer",
+				"Themr: List themes"
+			],
+			[
+				"thme",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"installe",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"clos",
+				"File: Close All"
+			],
+			[
+				"themr",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"thmr",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"group",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"colo",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"ther",
+				"Themr: List themes"
+			],
+			[
+				"themrt",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"thge",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"colot",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"git",
+				"Git: Toggle Annotations"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"builds",
+				"Javatar: Builds..."
+			],
+			[
+				"javatar",
+				"Javatar: Create new..."
+			],
+			[
+				"clo",
+				"File: Close All"
+			],
+			[
+				"resta",
+				"Haxe: Restart Server"
+			],
+			[
+				"dis",
+				"Package Control: Discover Packages"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"enabkle",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"choose ",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"ha",
+				"Haxe: Run build"
+			],
+			[
+				"toggle ",
+				"View: Toggle Menu"
+			],
+			[
+				"n",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"ne",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"next",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"color nec",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"haxe list",
+				"Haxelib: List Installed"
+			],
+			[
+				"project",
+				"Project Manager: Edit Project"
+			],
+			[
+				"rever",
+				"Permute Lines: Reverse"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"remive",
+				"Permute Lines: Reverse"
+			],
+			[
+				"achive",
+				"Achievement: View Achievements"
+			],
+			[
+				"achie",
+				"Achievement: View Achievements"
+			],
+			[
+				"achieve",
+				"Achievement: View Achievements"
+			],
+			[
+				"auto ma",
+				"Auto Match Enabled: Toggle"
+			],
+			[
+				"auto",
+				"Auto Match Enabled: Toggle"
+			],
+			[
+				"new ",
+				"File: New View into File"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"restar",
+				"Haxe: Restart Server"
+			],
+			[
+				"libra",
+				"Haxelib: Remove library"
+			],
+			[
+				"user ",
+				"Preferences: Settings - User"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"broe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"haxe remo",
+				"Haxelib: Remove library"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"flow",
+				"Set Syntax: flow file"
+			],
+			[
+				"browse ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"haxelib",
+				"Haxelib: Install library"
+			],
+			[
+				"haxe lib",
+				"Haxelib: List Installed"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa a",
+				"Package Control: Add Repository"
+			],
+			[
+				"sort a",
+				"SortBy: Alphabetically"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"View",
+				"View: Toggle Status Bar"
+			],
+			[
+				"haxe ru",
+				"Haxe: Run build"
+			],
+			[
+				"haxe ",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"haxe cho",
+				"Haxe: Choose Build Target"
+			]
+		],
+		"width": 406.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc"
+	],
+	"file_history":
+	[
+		"/E/Projects/chrawl2/chrawl2/Assets/Scripts/Controls/MouseLook.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/Startup.cs",
+		"/C/Users/Jakob/AppData/Local/Haroopad/Themes/viewer/default.css",
+		"/E/Projects/chrawl/Unity/Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Player/MiniMap.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Player/MapGen.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/StrongholdGen.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/SewerGen.cs",
+		"/E/Projects/Pancake Flipper/Pancake/Assets/Editor/CreateBoxCollider.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Environment/StairsDown.cs",
+		"/C/Users/Jakob/Desktop/VWA.md",
+		"/C/Users/Jakob/Desktop/nativelog.txt",
+		"/C/Users/Jakob/AppData/Roaming/Sublime Text 3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+		"/E/Projects/Pancake Flipper/Pancake/Assets/Scripts/CreateBoxCollider.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/MapGen.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/Drop.cs",
+		"/C/Program Files (x86)/Ubisoft/Tom Clancy's Splinter Cell Conviction/src/system/ConvictionUser.ini",
+		"/C/Users/Jakob/Downloads/ops.txt",
+		"/E/Projects/LD33/src/Main.hx",
+		"/E/Projects/chrawl/Unity/chrawl.sublime-project",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Player/Gold.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Environment/Doorway.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/Spellecule.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Environment/Water.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Items/PocketWatch.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/MagicControls.cs",
+		"/C/Windows/PixArt/PAC7302/Monitor.ini",
+		"/C/Users/Jakob/Desktop/scam/bin/TTERRH/Resources.resx",
+		"/C/Users/Jakob/Desktop/Neuer Ordner/.text",
+		"/C/Users/Jakob/Desktop/Neuer Ordner/.reloc",
+		"/E/Projects/todo.txt",
+		"/E/Projects/.gitignore",
+		"/C/Users/Jakob/Desktop/Neuer Ordner/.rsrc/MANIFEST/1",
+		"/C/Users/Jakob/Desktop/Social Club v1_1.2.5 Sеtup.exe",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/TransformShader.shader",
+		"/E/Projects/OpenFL/bad landlord/Project.xml",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/ASCIIShader.shader",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/ASCIIScript.cs",
+		"/C/Users/Jakob/Desktop/stderr.txt",
+		"/E/Projects/chrawl/Unity/Assets/Standard Assets/Effects/ImageEffects/Scripts/BlurOptimized.cs",
+		"/E/Projects/chrawl/Unity/Assets/Standard Assets/Effects/ImageEffects/Scripts/MotionBlur.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Environment/ShopItem.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Player/LookRayCast.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/Scroll.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Items/Potions/PotionOfHealing.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Items/Potions/Potion.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc/PotionInventory.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/PotionGen.cs",
+		"/E/Projects/OpenFL/ly/src/Main.hx",
+		"/E/Projects/OpenFL/ly/src/MapEditScreen.hx",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/GridScript.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/GridShader.shader",
+		"/E/Projects/chrawl/Unity/Assets/Resources/Shaders/MiniMap.shader",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Environment/PedestalShop.cs",
+		"/E/Projects/chrawl/Unity/Assets/Resources/Shaders/GoldShader.shader",
+		"/C/Users/Jakob/Desktop/Anweisungen zur Datenträgerwiederherstellung.txt",
+		"/E/Projects/chrawl/Unity/gitignore.txt",
+		"/E/Projects/chrawl/Unity/Assets/Resources/Shaders/GridShader.shader",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Enemies/Enemy.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Enemies/GelatinousCube.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Player/Mana.cs",
+		"/C/Users/Jakob/Desktop/steam_money.txt",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Player/Stealth.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/VignetteScript.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/Tween.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Environment/LadderDown.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Items/Potions/PotionOfFreezing.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/Game.cs",
+		"/C/Users/Jakob/Downloads/ij149-nojre/ImageJ/plugins/README.txt",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/VignetteShader.shader",
+		"/E/Projects/chrawl/Unity/Assets/Standard Assets/Effects/ImageEffects/Scripts/PostEffectsBase.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc/Bobbing.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Player/Crouch.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/ScrollGen.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Interfaces/IInteractable.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Interfaces/IFreezable.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Enemies/Cultist.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Environment/LadderUp.cs",
+		"/E/Projects/chrawl/Unity/Assets/Resources/Shaders/Ice.shader",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc/Perspective2DSortMode.boo",
+		"/C/Users/Jakob/Desktop/Perspective2DSortMode.boo",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Objects/Chest.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Environment/Trap.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/TransformScript.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Shaders/TransformShader.cs",
+		"/E/Projects/chrawl/Unity/Assets/Standard Assets/Effects/ToonShading/Shaders/ToonBasic.shader",
+		"/E/Projects/chrawl/Unity/Assets/Resources/Shaders/WaterShader.shader",
+		"/E/Projects/chrawl/Unity/Temp/Compiled-ASCIIShader.shader",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/TomeGen.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/Spell.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Items/Tome.cs",
+		"/C/Users/Jakob/Desktop/MyoG_Script.txt",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/FireBall.cs",
+		"/C/Users/Jakob/Desktop/note/src/Main.hx",
+		"/C/Users/Jakob/Desktop/note/project.xml",
+		"/C/Users/Jakob/AppData/Local/Temp/Temp1_ScreenSizeExample.zip/ScreenSizeExample/Source/Main.hx",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/Blizzard.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/Runes.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/IceDome.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Enemies/Watcher.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/Beam.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/DataTypes/RuneSet.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Magic/Ray.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc/Health.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Items/Potions/PotionOfBurning.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Objects/Bookcase.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Interfaces/IIgniteable.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Interfaces/IFreezable.js",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Items/Dagger.cs",
+		"/E/Projects/chrawl/Unity/Assets/Resources/Shaders/DissolveShader.shader",
+		"/C/Users/Jakob/Desktop/lyTex.ltx",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Tools/FbxAssetProcessor.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc/SeekPlayer.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Status Effects/Burn.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Player/StatusEffects.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc/Damage.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Items/Potions/PotionOfHarming.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Interfaces/ILookAt.cs",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc/LookAtLight.cs",
+		"/E/Projects/chrawl/Unity/Assets/Resources/Shaders/TomeShader.shader",
+		"/E/Projects/chrawl/Unity/Assets/Scripts/Misc/Fade.cs",
+		"/E/Projects/lyDraw/main.js",
+		"/E/Projects/lyDraw/index.html",
+		"/C/Users/Jakob/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/E/Projects/chrawl/Unity/Assets/Resources/Shaders/TestShader.shader",
+		"/C/Users/Jakob/AppData/Roaming/Sublime Text 3/Packages/AutoBackups/AutoBackups (Windows).sublime-settings",
+		"/C/Users/Jakob/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Jakob/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"E:\\Projects\\chrawl\\Unity\\Assets\\Scripts\\",
+			"E:\\Projects\\chrawl\\Unity\\Assets\\Scripts\\*",
+			"E:\\Projects\\chrawl\\Unity\\Assets\\Scripts\\",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"private",
+			"PlaceWa",
+			"Placea",
+			"PlaceWWa",
+			"x",
+			"Place",
+			"objData",
+			"NUM_TORCHES",
+			"MakeTorches",
+			"PlaceWa",
+			"MakeWal",
+			"r",
+			"SetSpecials",
+			"Water",
+			"mapData",
+			"new PA",
+			"GetMapVal",
+			"mapData[",
+			"mapData",
+			"mapData[",
+			"Torture",
+			"if(e == null)continue;",
+			"if(e[0] == -9)continue;",
+			"rY",
+			"r.",
+			"r",
+			"e[0] == null",
+			"null",
+			"objData",
+			"objData[s.x + x, s.y + y]",
+			"			break;",
+			"int ",
+			"chandelier",
+			"bCase",
+			"chest",
+			"Chest",
+			"chest",
+			"torch",
+			"r.",
+			"Floor",
+			"strFloorData",
+			"					\n",
+			"++;\n",
+			"doorways",
+			").",
+			".",
+			"SetActive",
+			"]]",
+			"count",
+			"length",
+			"count",
+			"^(.*)$",
+			");\n",
+			"_Brightness",
+			"finalColor",
+			"8 /",
+			" / 8.0f",
+			"int",
+			"Height",
+			"m_ASCII",
+			"pixelHeight",
+			"pixelWidth",
+			"rigi",
+			"placeWa",
+			"MakeFloors",
+			";\n",
+			"pocketWa",
+			"^.*\\S+.*$",
+			"torc",
+			"chande",
+			"Connector",
+			"makeflo",
+			"0",
+			"chest",
+			"Init",
+			"c",
+			"Game.player.Find(\"Head\").GetComponent<VignetteScript>()",
+			";\n",
+			"HideInHierarchy",
+			"door",
+			"floor",
+			"florr",
+			"Torch",
+			"d*-",
+			"wallVec",
+			"if(ste.t==\"Path\")a = (int)(Random.value*ste.w-2)+1;",
+			"dir",
+			"node",
+			"Doorway",
+			"h",
+			"Stones",
+			"stones",
+			"33",
+			"etAc",
+			"etActi",
+			"active",
+			"\n	",
+			"y",
+			"primi",
+			"Path",
+			"if(s.t == \"Room\")height = -7f;\n					if(s.t == \"Doorway\")continue;",
+			"GameObject",
+			"Primit",
+			"Transparent",
+			"Transparetn",
+			"6",
+			"2",
+			"brightness",
+			"	trans",
+			"trans",
+			"Chande",
+			"chande",
+			"5",
+			"nede",
+			"ne",
+			"();\n",
+			"g.",
+			";\n",
+			"  ",
+			"		\n",
+			"())",
+			"^(.*)$",
+			"0",
+			"[",
+			"this.",
+			"Play",
+			"gameObject",
+			"IIgniteable"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_tileH",
+			"_tileW",
+			"Keyboard",
+			"scoredPoint",
+			"stop",
+			"spawn",
+			"death",
+			"pointScored",
+			"[2]",
+			"[1]",
+			"[0]"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 165.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 86.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 92.0
+	},
+	"output.variable_get":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chrawl.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"start",
+				"Tools\\Startup.cs"
+			],
+			[
+				"mini",
+				"Player\\MiniMap.cs"
+			],
+			[
+				"drop",
+				"Tools\\Drop.cs"
+			],
+			[
+				"mapge",
+				"Tools\\MapGen.cs"
+			],
+			[
+				"wate",
+				"Environment\\Water.cs"
+			],
+			[
+				"magicon",
+				"Magic\\MagicControls.cs"
+			],
+			[
+				"doorw",
+				"Environment\\Doorway.cs"
+			],
+			[
+				"spelle",
+				"Magic\\Spellecule.cs"
+			],
+			[
+				"map",
+				"Tools\\MapGen.cs"
+			],
+			[
+				"ascii",
+				"Shaders\\ASCIIShader.shader"
+			],
+			[
+				"ascci",
+				"Shaders\\ASCIIScript.cs"
+			],
+			[
+				"gol",
+				"Player\\Gold.cs"
+			],
+			[
+				"magic",
+				"Magic\\MagicControls.cs"
+			],
+			[
+				"look",
+				"Player\\LookRayCast.cs"
+			],
+			[
+				"po",
+				"Items\\Potions\\Potion.cs"
+			],
+			[
+				"potion",
+				"Misc\\PotionInventory.cs"
+			],
+			[
+				"poti",
+				"Tools\\PotionGen.cs"
+			],
+			[
+				"drp",
+				"Tools\\Drop.cs"
+			],
+			[
+				"mapgen",
+				"Tools\\MapGen.cs"
+			],
+			[
+				"pedes",
+				"Environment\\PedestalShop.cs"
+			],
+			[
+				"pede",
+				"Environment\\PedestalShop.cs"
+			],
+			[
+				"shop",
+				"Environment\\PedestalShop.cs"
+			],
+			[
+				"pock",
+				"Items\\PocketWatch.cs"
+			],
+			[
+				"gelat",
+				"Enemies\\GelatinousCube.cs"
+			],
+			[
+				"enem",
+				"Enemies\\Enemy.cs"
+			],
+			[
+				"minim",
+				"Player\\MiniMap.cs"
+			],
+			[
+				"tween",
+				"Tools\\Tween.cs"
+			],
+			[
+				"twen",
+				"Tools\\Tween.cs"
+			],
+			[
+				"stael",
+				"Player\\Stealth.cs"
+			],
+			[
+				"pocketwa",
+				"Items\\PocketWatch.cs"
+			],
+			[
+				"mana",
+				"Player\\Mana.cs"
+			],
+			[
+				"steal",
+				"Player\\Stealth.cs"
+			],
+			[
+				"startu",
+				"Tools\\Startup.cs"
+			],
+			[
+				"game",
+				"Tools\\Game.cs"
+			],
+			[
+				"ladder",
+				"Environment\\LadderDown.cs"
+			],
+			[
+				"vigne",
+				"Shaders\\VignetteShader.shader"
+			],
+			[
+				"bobb",
+				"Misc\\Bobbing.cs"
+			],
+			[
+				"vignette",
+				"Shaders\\VignetteScript.cs"
+			],
+			[
+				"enemy",
+				"Enemies\\Enemy.cs"
+			],
+			[
+				"twe",
+				"Tools\\Tween.cs"
+			],
+			[
+				"iinter",
+				"Interfaces\\IInteractable.cs"
+			],
+			[
+				"scroll",
+				"Magic\\Scroll.cs"
+			],
+			[
+				"ii",
+				"Interfaces\\IInteractable.cs"
+			],
+			[
+				"scrollgen",
+				"Tools\\ScrollGen.cs"
+			],
+			[
+				"cult",
+				"Enemies\\Cultist.cs"
+			],
+			[
+				"ifree",
+				"Interfaces\\IFreezable.cs"
+			],
+			[
+				"gela",
+				"Enemies\\GelatinousCube.cs"
+			],
+			[
+				"mapg",
+				"Tools\\MapGen.cs"
+			],
+			[
+				"vignet",
+				"Shaders\\VignetteShader.shader"
+			],
+			[
+				"vign",
+				"Shaders\\VignetteScript.cs"
+			],
+			[
+				"tra",
+				"Environment\\Trap.cs"
+			],
+			[
+				"trans",
+				"Shaders\\TransformShader.shader"
+			],
+			[
+				"asc",
+				"Shaders\\ASCIIShader.shader"
+			],
+			[
+				"asci",
+				"Shaders\\ASCIIShader.shader"
+			],
+			[
+				"spell",
+				"Magic\\Spell.cs"
+			],
+			[
+				"tome",
+				"Tools\\TomeGen.cs"
+			],
+			[
+				"fire",
+				"Magic\\FireBall.cs"
+			],
+			[
+				"spellec",
+				"Magic\\Spellecule.cs"
+			],
+			[
+				"scrol",
+				"Tools\\ScrollGen.cs"
+			],
+			[
+				"runes",
+				"Tools\\Runes.cs"
+			],
+			[
+				"scro",
+				"Magic\\Scroll.cs"
+			],
+			[
+				"gel",
+				"Enemies\\GelatinousCube.cs"
+			],
+			[
+				"cul",
+				"Enemies\\Cultist.cs"
+			],
+			[
+				"ifre",
+				"Interfaces\\IFreezable.cs"
+			],
+			[
+				"wat",
+				"Enemies\\Watcher.cs"
+			],
+			[
+				"magiccon",
+				"Magic\\MagicControls.cs"
+			],
+			[
+				"dop",
+				"Tools\\Drop.cs"
+			],
+			[
+				"spel",
+				"Magic\\Spellecule.cs"
+			],
+			[
+				"pocekt",
+				"Items\\PocketWatch.cs"
+			],
+			[
+				"pocket",
+				"Items\\PocketWatch.cs"
+			],
+			[
+				"mgaic",
+				"Magic\\MagicControls.cs"
+			],
+			[
+				"rune",
+				"Tools\\Runes.cs"
+			],
+			[
+				"books",
+				"Objects\\Bookcase.cs"
+			],
+			[
+				"magi",
+				"Magic\\MagicControls.cs"
+			],
+			[
+				"por",
+				"Items\\Potions\\PotionOfBurning.cs"
+			],
+			[
+				"en",
+				"Enemies\\Enemy.cs"
+			],
+			[
+				"he",
+				"Misc\\Health.cs"
+			],
+			[
+				"crouch",
+				"Player\\Crouch.cs"
+			],
+			[
+				"potioninv",
+				"Misc\\PotionInventory.cs"
+			],
+			[
+				"seekplay",
+				"Misc\\SeekPlayer.cs"
+			],
+			[
+				"burn",
+				"Status Effects\\Burn.cs"
+			],
+			[
+				"burnin",
+				"Items\\Potions\\PotionOfBurning.cs"
+			],
+			[
+				"potioninve",
+				"Misc\\PotionInventory.cs"
+			],
+			[
+				"geal",
+				"Enemies\\GelatinousCube.cs"
+			],
+			[
+				"dama",
+				"Misc\\Damage.cs"
+			],
+			[
+				"potionof",
+				"Items\\Potions\\PotionOfHarming.cs"
+			],
+			[
+				"pot",
+				"Misc\\PotionInventory.cs"
+			],
+			[
+				"minima",
+				"Player\\MiniMap.cs"
+			],
+			[
+				"seekplayer",
+				"Misc\\SeekPlayer.cs"
+			],
+			[
+				"gelation",
+				"Enemies\\GelatinousCube.cs"
+			],
+			[
+				"spellecu",
+				"Magic\\Spellecule.cs"
+			],
+			[
+				"lookat",
+				"Interfaces\\ILookAt.cs"
+			],
+			[
+				"heal",
+				"Misc\\Health.cs"
+			],
+			[
+				"seek",
+				"Misc\\SeekPlayer.cs"
+			],
+			[
+				"health",
+				"Misc\\Health.cs"
+			],
+			[
+				"potino",
+				"Items\\Potions\\Potion.cs"
+			],
+			[
+				"hest",
+				"Objects\\Chest.cs"
+			],
+			[
+				"fade",
+				"Misc\\Fade.cs"
+			],
+			[
+				"magiccontr",
+				"Magic\\MagicControls.cs"
+			],
+			[
+				"pocke",
+				"Items\\PocketWatch.cs"
+			],
+			[
+				"bookca",
+				"Objects\\Bookcase.cs"
+			],
+			[
+				"maigc",
+				"Magic\\MagicControls.cs"
+			],
+			[
+				"ches",
+				"Objects\\Chest.cs"
+			],
+			[
+				"chest",
+				"Objects\\Chest.cs"
+			],
+			[
+				"potionge",
+				"Tools\\PotionGen.cs"
+			],
+			[
+				"mapgenerat",
+				"Misc\\MapGenerator.cs"
+			],
+			[
+				"runeset",
+				"DataTypes\\RuneSet.cs"
+			],
+			[
+				"shader",
+				"Shaders\\ASCIIShader.shader"
+			],
+			[
+				"ilo",
+				"Interfaces\\ILookAt.cs"
+			],
+			[
+				"potiongen",
+				"Tools\\PotionGen.cs"
+			],
+			[
+				"enemt",
+				"Enemies\\GelatinousCube.cs"
+			],
+			[
+				"potio",
+				"Items\\Potion.cs"
+			],
+			[
+				"dmaa",
+				"Damage.cs"
+			],
+			[
+				"pla",
+				"source\\PlayState.hx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 520.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

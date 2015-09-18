@@ -1,0 +1,11 @@
+All of the code in this repository is Liscensed under the DBAD Liscense 1.0
+The terms are the following:
+
+1. The code shall be used by anyone for anything, as long as
+2. The person using this code adheres to not "being a dick"
+
+Definitions: 
+"being a dick":
+	"being a dick" is not defined by the owner of the liscensed code, but by the liscensee.
+	It is recommended that the liscensee follow the common rules of "not being a dick" such as crediting the author if they used
+	the code for a commercial project, however no rules are mandatory. 
