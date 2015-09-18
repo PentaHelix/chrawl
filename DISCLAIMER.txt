@@ -1,0 +1,5 @@
+WARNING:
+Bad code ahead, VERY bad code.
+Stupidly organized, slow, idiotic, unnecessary, and over-complicated,
+anything you end up using may break at any point spontaneously with no reason or explanation.
+
