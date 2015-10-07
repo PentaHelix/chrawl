@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 7235b8518a7ac0e4eb7733b5f943c69e
+timeCreated: 1431682913
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cylinder_cell
+    100002: Cylinder_cell.001
+    100004: Cylinder_cell.002
+    100006: Cylinder_cell.003
+    100008: Cylinder_cell.004
+    100010: Cylinder_cell.005_cell
+    100012: Cylinder_cell.005_cell.001
+    100014: Cylinder_cell.005_cell.002
+    100016: Cylinder_cell.005_cell.003
+    100018: Cylinder_cell.005_cell.004
+    100020: Cylinder_cell.005_cell.005
+    100022: Cylinder_cell.005_cell.006
+    100024: Cylinder_cell.005_cell.007
+    100026: //RootNode
+    400000: Cylinder_cell
+    400002: Cylinder_cell.001
+    400004: Cylinder_cell.002
+    400006: Cylinder_cell.003
+    400008: Cylinder_cell.004
+    400010: Cylinder_cell.005_cell
+    400012: Cylinder_cell.005_cell.001
+    400014: Cylinder_cell.005_cell.002
+    400016: Cylinder_cell.005_cell.003
+    400018: Cylinder_cell.005_cell.004
+    400020: Cylinder_cell.005_cell.005
+    400022: Cylinder_cell.005_cell.006
+    400024: Cylinder_cell.005_cell.007
+    400026: //RootNode
+    2300000: Cylinder_cell
+    2300002: Cylinder_cell.001
+    2300004: Cylinder_cell.002
+    2300006: Cylinder_cell.003
+    2300008: Cylinder_cell.004
+    2300010: Cylinder_cell.005_cell
+    2300012: Cylinder_cell.005_cell.001
+    2300014: Cylinder_cell.005_cell.002
+    2300016: Cylinder_cell.005_cell.003
+    2300018: Cylinder_cell.005_cell.004
+    2300020: Cylinder_cell.005_cell.005
+    2300022: Cylinder_cell.005_cell.006
+    2300024: Cylinder_cell.005_cell.007
+    3300000: Cylinder_cell
+    3300002: Cylinder_cell.001
+    3300004: Cylinder_cell.002
+    3300006: Cylinder_cell.003
+    3300008: Cylinder_cell.004
+    3300010: Cylinder_cell.005_cell
+    3300012: Cylinder_cell.005_cell.001
+    3300014: Cylinder_cell.005_cell.002
+    3300016: Cylinder_cell.005_cell.003
+    3300018: Cylinder_cell.005_cell.004
+    3300020: Cylinder_cell.005_cell.005
+    3300022: Cylinder_cell.005_cell.006
+    3300024: Cylinder_cell.005_cell.007
+    4300000: Cylinder_cell.005_cell.007
+    4300002: Cylinder_cell.005_cell.006
+    4300004: Cylinder_cell.005_cell.005
+    4300006: Cylinder_cell.005_cell.004
+    4300008: Cylinder_cell.005_cell.003
+    4300010: Cylinder_cell.005_cell.002
+    4300012: Cylinder_cell.005_cell.001
+    4300014: Cylinder_cell.005_cell
+    4300016: Cylinder_cell.004
+    4300018: Cylinder_cell.003
+    4300020: Cylinder_cell.002
+    4300022: Cylinder_cell.001
+    4300024: Cylinder_cell
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

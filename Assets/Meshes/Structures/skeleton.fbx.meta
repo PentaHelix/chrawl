@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 2bd15eb70b7dc694ab582f557c064f6b
+timeCreated: 1440685840
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BezierCircle
+    100002: Cube
+    100004: Cylinder
+    100006: NurbsPath
+    100008: NurbsPath.001
+    100010: NurbsPath.002
+    100012: NurbsPath.003
+    100014: NurbsPath.004
+    100016: NurbsPath.005
+    100018: NurbsPath.006
+    100020: NurbsPath.007
+    100022: //RootNode
+    100024: Sphere
+    400000: BezierCircle
+    400002: Cube
+    400004: Cylinder
+    400006: NurbsPath
+    400008: NurbsPath.001
+    400010: NurbsPath.002
+    400012: NurbsPath.003
+    400014: NurbsPath.004
+    400016: NurbsPath.005
+    400018: NurbsPath.006
+    400020: NurbsPath.007
+    400022: //RootNode
+    400024: Sphere
+    2300000: BezierCircle
+    2300002: Cube
+    2300004: Cylinder
+    2300006: NurbsPath
+    2300008: NurbsPath.001
+    2300010: NurbsPath.002
+    2300012: NurbsPath.003
+    2300014: NurbsPath.004
+    2300016: NurbsPath.005
+    2300018: NurbsPath.006
+    2300020: NurbsPath.007
+    2300022: Sphere
+    3300000: BezierCircle
+    3300002: Cube
+    3300004: Cylinder
+    3300006: NurbsPath
+    3300008: NurbsPath.001
+    3300010: NurbsPath.002
+    3300012: NurbsPath.003
+    3300014: NurbsPath.004
+    3300016: NurbsPath.005
+    3300018: NurbsPath.006
+    3300020: NurbsPath.007
+    3300022: Sphere
+    4300000: Cylinder
+    4300002: Sphere
+    4300004: Cube
+    4300006: BezierCircle
+    4300008: NurbsPath.007
+    4300010: NurbsPath.006
+    4300012: NurbsPath.005
+    4300014: NurbsPath.004
+    4300016: NurbsPath.003
+    4300018: NurbsPath.002
+    4300020: NurbsPath.001
+    4300022: NurbsPath
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
