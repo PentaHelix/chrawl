@@ -8,7 +8,6 @@ public class GelatinousCube : Enemy, IIgnitable, IFreezable {
 	}
 
 	override public void Die(){
-		Gold.gold += 1;
 		transform.Find("DeathParticles").gameObject.GetComponent<ParticleSystem>().Play();
 		GetComponent<Collider>().enabled = false;
 		Destroy(transform.Find("Mesh").gameObject);
